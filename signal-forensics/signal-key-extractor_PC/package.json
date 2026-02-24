@@ -1,0 +1,14 @@
+{
+  "productName": "Signal",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@types/node": "^22.10.0",
+    "electron": "^33.2.0",
+    "typescript": "^5.7.2"
+  }
+}
